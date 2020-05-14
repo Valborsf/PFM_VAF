@@ -1,0 +1,5 @@
+sex,female,female,female,male,male,male
+age_rang2,0-30,31-60,61>91,0-30,31-60,61>91
+bm,,,,,,
+benign,959,3233,626,681,3069,1207
+malignant,65,408,343,49,482,831
