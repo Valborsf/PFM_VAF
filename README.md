@@ -1,6 +1,6 @@
 # PFM_VAF
 # TFM Bioinformatics Biostatistics
-    Títle: Exploring Neural Networks Melanoma Recognition base on Images and clinical information  
+    Títle: Exploring Neural Networks : Melanoma Recognition based on Images and clinical information  
     Author: Victoria Albors 
     Supervisors: Ferran Reverter Comes y Esteban Vegas Lozano
     Master : Bio informatics / Biostatistics 
